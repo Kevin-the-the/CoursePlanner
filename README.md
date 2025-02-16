@@ -1,5 +1,4 @@
-
-Dedicated torwards jake and all his hammer monkeys
+i can spell
 ```bash
 #req
 npm install next    #local download
