@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "RHS Course Planner",
-  description: "by RHS students, for RHS students - Hammer Monkeys ;)",
+  title: "HS Course Planner",
+  description: "by HS students, for HS students",
 };
 
 export default function RootLayout({
